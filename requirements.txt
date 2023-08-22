@@ -1,2 +1,6 @@
 fastapi==0.100.1
-uvicorn[standard]==0.23.2
+uvicorn[standard]
+qiskit-ibm-provider
+xanadu-cloud-client
+amazon-braket-sdk
+python-dotenv
